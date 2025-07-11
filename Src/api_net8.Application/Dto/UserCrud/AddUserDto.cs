@@ -1,4 +1,3 @@
-using api.net.Models;
 using System.ComponentModel.DataAnnotations;
 
 namespace api_net9.Application.Dto.UserCrud

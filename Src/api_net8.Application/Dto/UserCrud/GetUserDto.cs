@@ -1,6 +1,5 @@
 using System;
 using System.Security.Cryptography.X509Certificates;
-using api.net.Models;
 
 namespace api_net9.Application.Dto.UserCrud
 {

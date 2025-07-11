@@ -1,4 +1,3 @@
-using api.net.Models;
 using api_.net9.Common.Dto;
 using api_net9.Application.Dto.AuthDto;
 using api_net9.Application.Services.AuthUser;
