@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 using System.Runtime.Serialization;
 using System.Threading.Tasks;
 
-namespace dotnet_rpg.Dtos.User
+namespace api_net9.Application.Dto.AuthDto
 {
     public class UserLoginDto
     {

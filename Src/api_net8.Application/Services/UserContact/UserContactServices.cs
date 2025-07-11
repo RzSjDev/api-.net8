@@ -1,15 +1,15 @@
 using System.Diagnostics.Contracts;
 using System.Security.Claims;
 using System.Security.Cryptography.X509Certificates;
-using api.net.Dto.getCharacter;
-using api.net.Models;
-using api.net.Models.ServiceResponse;
-using api_net8.Application.Context;
+using api_.net9.Common.Dto;
+using api_net9.Application.Context;
+using api_net9.Application.Dto.UserCrud;
+using api_net9.Domain.Models;
 using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
-using static api.net.Services.UserContact.UserContactServices;
-namespace api.net.Services.UserContact
+using static api_net9.Application.Services.UserContact.UserContactServices;
+namespace api_net9.Application.Services.UserContact
 {
     public class UserContactServices : IUserContactServices
     {

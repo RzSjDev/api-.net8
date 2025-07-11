@@ -1,7 +1,7 @@
 using api.net.Models;
 using System.ComponentModel.DataAnnotations;
 
-namespace api.net.Dto.getCharacter
+namespace api_net9.Application.Dto.UserCrud
 {
     public class AddUserDto
     {

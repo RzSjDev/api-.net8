@@ -1,7 +1,7 @@
-using api.net.Dto.getCharacter;
-using api.net.Models.ServiceResponse;
+using api_.net9.Common.Dto;
+using api_net9.Application.Dto.UserCrud;
 
-namespace api.net.Services.UserContact
+namespace api_net9.Application.Services.UserContact
 {
     public interface IUserContactServices
     {

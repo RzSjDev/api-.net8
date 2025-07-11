@@ -1,8 +1,8 @@
-using api.net.Dto.getCharacter;
-using api.net.Models;
+using api_net9.Application.Dto.UserCrud;
+using api_net9.Domain.Models;
 using AutoMapper;
 
-namespace api.net
+namespace api_net9
 {
     public class AutoMapperProfile : Profile
     {

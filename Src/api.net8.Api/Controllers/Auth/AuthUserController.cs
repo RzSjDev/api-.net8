@@ -1,11 +1,10 @@
-using api.net.Dto.AuthDto;
 using api.net.Models;
-using api.net.Models.ServiceResponse;
-using api.net.Services.AuthUser;
-using dotnet_rpg.Dtos.User;
+using api_.net9.Common.Dto;
+using api_net9.Application.Dto.AuthDto;
+using api_net9.Application.Services.AuthUser;
 using Microsoft.AspNetCore.Mvc;
 
-namespace api.net.Controllers.Auth
+namespace api_net9.Controllers.Auth
 {
     [ApiController]
     [Route("[controller]")]

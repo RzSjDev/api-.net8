@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace api.net.Models
+namespace api_net9.Domain.Models
 {
     public class UsersContact
     {

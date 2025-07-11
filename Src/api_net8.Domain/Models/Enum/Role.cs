@@ -1,5 +1,5 @@
 using System.Text.Json.Serialization;
-namespace api_net8.Domain.Models.Enum
+namespace api_net9.Domain.Models.Enum
 
 {
     [JsonConverter(typeof(JsonStringEnumConverter))]

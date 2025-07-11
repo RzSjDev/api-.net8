@@ -1,18 +1,16 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using api.net.Dto.AuthDto;
-using api.net.Models;
-using api.net.Models.ServiceResponse;
-using api.net.Services;
-using api_net8.Application.Context;
-using api_net8.Domain.Models.Enum;
-using dotnet_rpg.Dtos.User;
+using api_.net9.Common.Dto;
+using api_net9.Application.Context;
+using api_net9.Application.Dto.AuthDto;
+using api_net9.Domain.Models;
+using api_net9.Domain.Models.Enum;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
-namespace api.net.Services.AuthUser
+namespace api_net9.Application.Services.AuthUser
 {
     public class AuthUserService : IAuthUserService
     {

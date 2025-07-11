@@ -1,7 +1,7 @@
-using api.net.Data;
-using api.net.Services.AuthUser;
-using api.net.Services.UserContact;
-using api_net8.Application.Context;
+using api_net9.Application.Context;
+using api_net9.Application.Services.AuthUser;
+using api_net9.Application.Services.UserContact;
+using api_net9.Infrastructure.context;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;

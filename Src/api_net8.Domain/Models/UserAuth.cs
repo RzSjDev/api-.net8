@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using api_net8.Domain.Models.Enum;
+using api_net9.Domain.Models.Enum;
 
-namespace api.net.Models
+namespace api_net9.Domain.Models
 {
     public class UserAuth
     {

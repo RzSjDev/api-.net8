@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_net8", "api_net8.csproj", "{F28A1026-C381-4EBD-AC4F-8DDE5192C008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_net9", "api_net9.csproj", "{F28A1026-C381-4EBD-AC4F-8DDE5192C008}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{510530A4-CFC9-40AE-B14A-70DEE05FF9DA}"
 EndProject
@@ -11,29 +11,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{140CE4A5-F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{5EB7BBEC-471B-4B95-BCCB-FD2AE90C0B48}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net8.Api", "api_net8.Api", "{7A0B5344-A0EF-454A-916E-FDF287E191ED}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net9.Api", "api_net9.Api", "{7A0B5344-A0EF-454A-916E-FDF287E191ED}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net8.Infrastructure", "api_net8.Infrastructure", "{487ED570-AB0E-4B30-A37C-DB7BCA153E5B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net9.Infrastructure", "api_net9.Infrastructure", "{487ED570-AB0E-4B30-A37C-DB7BCA153E5B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net8.Domain", "api_net8.Domain", "{2AC6707B-C559-4780-9C79-0EC3018FCC36}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net9.Domain", "api_net9.Domain", "{2AC6707B-C559-4780-9C79-0EC3018FCC36}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net8.Application", "api_net8.Application", "{4B86C316-0F69-41E1-8D5B-11AE711D8310}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net9.Application", "api_net9.Application", "{4B86C316-0F69-41E1-8D5B-11AE711D8310}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net8.Common", "api_net8.Common", "{8EC4ECC1-CA50-45E1-8FB5-5CE0CA76FCC3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net9.Common", "api_net9.Common", "{8EC4ECC1-CA50-45E1-8FB5-5CE0CA76FCC3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_net8.Application", "..\api_net8.Application\api_net8.Application.csproj", "{2EE6D70E-370D-48FE-8827-996BCD0ED06B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_net9.Application", "..\api_net8.Application\api_net9.Application.csproj", "{2EE6D70E-370D-48FE-8827-996BCD0ED06B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_.net8.Common", "..\api_.net8.Common\api_.net8.Common.csproj", "{D739BDA7-0BAA-4B3F-A889-6F1245518E7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_.net9.Common", "..\api_.net8.Common\api_.net9.Common.csproj", "{D739BDA7-0BAA-4B3F-A889-6F1245518E7C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_net8.Infrastructure", "..\api_net8.Infrastructure\api_net8.Infrastructure.csproj", "{97357969-B271-4FAE-9CCE-F01338A930F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_net9.Infrastructure", "..\api_net8.Infrastructure\api_net9.Infrastructure.csproj", "{97357969-B271-4FAE-9CCE-F01338A930F4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net8.ApplicationTest", "api_net8.ApplicationTest", "{81E2914F-47D0-49E4-A93E-5EA49FDEDA20}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api_net9.ApplicationTest", "api_net9.ApplicationTest", "{81E2914F-47D0-49E4-A93E-5EA49FDEDA20}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContactUserService.Test", "ContactUserService.Test", "{0E9515A0-892B-4501-BAFB-47B5E7406C69}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AuthUserService_Test", "AuthUserService_Test", "{B36A38A9-8FDF-4BFF-BE78-B24A836CF2B9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_net8.Domain", "..\api_net8.Domain\api_net8.Domain.csproj", "{0E1706D8-FE31-45C4-9982-A0489F2E9548}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_net9.Domain", "..\api_net8.Domain\api_net9.Domain.csproj", "{0E1706D8-FE31-45C4-9982-A0489F2E9548}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SeviceTest", "SeviceTest", "{C3D6E5CB-06C8-49A9-84EB-6FE96E34113B}"
 EndProject

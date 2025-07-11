@@ -1,9 +1,9 @@
-using api.net.Models;
-using api_net8.Application.Context;
+using api_net9.Application.Context;
+using api_net9.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
 
-namespace api.net.Data
+namespace api_net9.Infrastructure.context
 {
     public class DataContext : DbContext,IDataContext
     {

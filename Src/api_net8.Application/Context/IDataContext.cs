@@ -1,4 +1,4 @@
-﻿using api.net.Models;
+﻿using api_net9.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace api_net8.Application.Context
+namespace api_net9.Application.Context
 {
     public interface IDataContext
     {

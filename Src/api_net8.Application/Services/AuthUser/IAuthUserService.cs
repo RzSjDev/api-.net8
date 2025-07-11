@@ -1,10 +1,8 @@
-using api.net.Dto.AuthDto;
 using api.net.Models;
-using api.net.Models.ServiceResponse;
-using api.net.Services;
-using dotnet_rpg.Dtos.User;
+using api_.net9.Common.Dto;
+using api_net9.Application.Dto.AuthDto;
 
-namespace api.net.Services.AuthUser
+namespace api_net9.Application.Services.AuthUser
 {
     public interface IAuthUserService
     {

@@ -1,11 +1,11 @@
-using api.net.Dto.getCharacter;
-using api.net.Models.ServiceResponse;
-using api.net.Services.UserContact;
+using api_.net9.Common.Dto;
+using api_net9.Application.Dto.UserCrud;
+using api_net9.Application.Services.UserContact;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
-namespace api.net.Controllers.UserContact
+namespace api_net9.Controllers.UserContact
 {
     [Authorize]
     [ApiController]
